@@ -1,0 +1,6 @@
+C:\Users\egorov_ea\Desktop\Dron\Practica7\Construction\bin\Debug\Construction.dll
+C:\Users\egorov_ea\Desktop\Dron\Practica7\Construction\bin\Debug\Construction.pdb
+C:\Users\egorov_ea\Desktop\Dron\Practica7\Construction\obj\Debug\Construction.csproj.AssemblyReference.cache
+C:\Users\egorov_ea\Desktop\Dron\Practica7\Construction\obj\Debug\Construction.csproj.CoreCompileInputs.cache
+C:\Users\egorov_ea\Desktop\Dron\Practica7\Construction\obj\Debug\Construction.dll
+C:\Users\egorov_ea\Desktop\Dron\Practica7\Construction\obj\Debug\Construction.pdb
